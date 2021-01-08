@@ -15,7 +15,8 @@ Currently the tool can:
 
 ## Screenshots
 
-...
+![Briefing edit](img/briefing.png)
+![Freq edit](img/freqs.png)
 
 ## Features
 
