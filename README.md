@@ -6,6 +6,10 @@ Small tool set for post processing (ie. editing some features of missions alread
 
 Anything here is in **really** alpha state, please, **please** do not overwrite your actual mission files with what this tool will produce. I was testing this on several missions, mine, downloaded and it was ok, but in some cases it can just BREAK your mission file. Just edit the mission and save it as another file. Do not overwrite your miz file. You can report any bug in the issue tab.
 
+## Bugs
+
+There are plenty! I believe there are hundrends of bugs in my software. Please report any malfunction as an issue, if possible attach `dcspp.log` file produced by the application (should be in the same place as the .exe file)
+
 ## Features
 
 Currently the tool can:
